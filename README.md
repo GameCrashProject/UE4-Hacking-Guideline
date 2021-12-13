@@ -22,7 +22,6 @@
 ## 프로젝트 접근 방법론
 [1. Build](https://github.com/GameCrashProject/UE4-Hacking-Guideline/blob/main/2_Methodology/1_Build.md)<br>
 [2. Analysis](https://github.com/GameCrashProject/UE4-Hacking-Guideline/blob/main/2_Methodology/2_Analysis.md)<br>
-[3. Exploit](https://github.com/GameCrashProject/UE4-Hacking-Guideline/blob/main/2_Methodology/3_Exploit.md)<br>
                                                                                                           
 ## 결론
 [1. Conclusion](https://github.com/GameCrashProject/UE4-Hacking-Guideline/blob/main/3_Conclusion/1_Conclusion.md)<br>
