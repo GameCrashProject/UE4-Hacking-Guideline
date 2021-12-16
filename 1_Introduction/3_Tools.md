@@ -1,4 +1,4 @@
-### Contents <!-- omit in toc -->
+### 목차
 - [1. 개요](#1-개요)
 - [2. Fuzzing](#2-fuzzing)
   - [2.1 AFL++](#21-afl)
