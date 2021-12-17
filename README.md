@@ -20,7 +20,7 @@
 [3. Tools](1_Introduction/3_Tools.md)<br>
 
 ## 프로젝트 접근 방법론
-[1. Build](h_Methodology/1_Build.md)<br>
+[1. Build](2_Methodology/1_Build.md)<br>
 [2. Analysis](2_Methodology/2_Analysis/README.md)<br>
 
 ## 결론
